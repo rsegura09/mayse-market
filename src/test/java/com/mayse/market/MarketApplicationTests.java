@@ -1,4 +1,4 @@
-package com.mayse.market.market;
+package com.mayse.market;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
